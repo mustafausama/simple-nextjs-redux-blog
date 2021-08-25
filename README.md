@@ -30,10 +30,10 @@ The app uses a simple REST-api to fetch blogs and comments. It's also capable of
  Another method:
 
  1. Initiate a git repository and push it to any git remote repository by running
- `git init`
- `git add .`
- `git commt -m "Commit message"`
- `git remote add RemoteName https://github.com/user/repo`
+ `git init`\
+ `git add .`\
+ `git commt -m "Commit message"`\
+ `git remote add RemoteName https://github.com/user/repo`\
  `git push -u RemoteName master`
 2. Create a Vercel (official Next.js host) account.
 3. Create a new Project in Vercel and link it to the github repository created.
