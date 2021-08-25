@@ -1,0 +1,9 @@
+.postTitle {
+  color: #fff;
+  text-decoration: none;
+  border-top: solid 2px #dfe6e9;
+  border-bottom: solid 2px #dfe6e9;
+  padding: 7px 5px;
+  width: 80%;
+  text-align: center;
+}

@@ -1,0 +1,14 @@
+.headerAnchor {
+  text-decoration: none;
+  color: #fff;
+}
+.headerListItemAnchor {
+  margin: 0 10px;
+  padding: 5px 10px;
+  border: solid 3px #dfe6e9;
+  border-radius: 5px;
+}
+.headerListItemAnchor:hover {
+  color: #2d3436;
+  background-color: #dfe6e9;
+}
